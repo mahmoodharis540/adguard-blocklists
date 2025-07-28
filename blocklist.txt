@@ -4,7 +4,6 @@ edition.cnn.com
 hallamstudentsunion.com
 www.hallamstudentsunion.com
 events.hallamstudentsunion.com
-chatgpt.com
 www.shu.ac.uk
 skeeter-hawk.aloompa.com
 lb._dns-sd._udp.0.0.0.10.in-addr.arpa
