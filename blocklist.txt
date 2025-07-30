@@ -7,3 +7,6 @@ events.hallamstudentsunion.com
 www.shu.ac.uk
 skeeter-hawk.aloompa.com
 lb._dns-sd._udp.0.0.0.10.in-addr.arpa
+sheffield.ac.uk/activities/find-student-groups
+sheffield.ac.uk/
+
